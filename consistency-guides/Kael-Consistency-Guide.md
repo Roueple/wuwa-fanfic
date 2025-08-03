@@ -1,4 +1,4 @@
-# Kael Consistency Guide
+# Caspian Consistency Guide
 ## Character Voice and Pattern Reference
 
 ### Core Character Identity

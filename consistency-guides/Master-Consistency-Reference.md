@@ -9,16 +9,17 @@ This document serves as the central reference for all established story elements
 
 ### Main Characters
 
-#### Kael (Male Protagonist)
-- **Full Name**: Kael [Last name TBD - merchant family name]
+#### Caspian (Male Protagonist)
+- **Full Name**: Caspian Thorne
 - **Age**: Late 20s (same age as Phrolova)
 - **Origin**: Appears to be reincarnated from modern world with past life memories intact
 - **Hidden Origin**: [PLOT TWIST] True nature to be revealed - connection to the Lament itself
+- **Special Ability**: Can sense "main character aura" - distinguishes between ordinary people and those with more detailed/vivid presence (clothing, hairstyle, overall design, and an indefinable quality that makes them seem "more important")
 - **Past Life**: Regular office worker (8-5 job) from modern world
-- **Current Life**: Born in the same village as Phrolova in Ostina region, away on errands during meteor strike
+- **Current Life**: Born in Ostina region, same age as Phrolova, traveling merchant family
 - **Personality Traits**: Cautious but empathetic, wants ordinary life, has gaming sense to recognize "main characters"
 - **Speech Patterns**: Modern sensibilities filtered through fantasy setting, analytical thinking, comedy through denial patterns
-- **Key Phrases**: [To be established in writing]
+- **Key Phrases**: "I just want a normal life", "This sounds like a video game", "NPC" vs "Main character", "Is that so much to ask?", "This is what I want"
 - **Internal Monologue Style**: Analytical modern thinking, "I want ordinary life" vs. instinctive heroism
 
 #### Phrolova (Female Protagonist)
@@ -67,11 +68,20 @@ This document serves as the central reference for all established story elements
 
 ### Family and Background Characters
 
-#### Kael's Village Family
-- **Parents**: [Names TBD] - village residents, possibly merchants or craftspeople
-- **Family Background**: Same village as Phrolova, destroyed in meteor strike
-- **Survival**: Kael was away on errands in town during the meteor impact
-- **Shared Tragedy**: Lost the same people Phrolova did, creating deeper connection
+#### Caspian's Merchant Family
+- **Parents**: Mira and Garrett Thorne - traveling merchants originally from Ostina
+- **Mother (Mira)**: Kind brown eyes, calloused hands from handling trade goods, supportive of Caspian's musical interests, brown hair (NPC appearance), friends with Phrolova's family
+- **Father (Garrett)**: Merchant with hidden knowledge, wears concealed pendant/charm, shows unusual recognition of Caspian's melodies, brown hair (NPC appearance)
+- **Family Background**: Originally from Ostina town, became traveling merchants
+- **Family Name**: Thorne (established)
+- **Trade**: Grain and general goods merchant family
+- **Mystery Element**: Garrett shows signs of hidden knowledge about Caspian's true nature
+
+#### Phrolova's Family
+- **Mother**: Elena - silver hair (main character appearance), friends with the Thorne family
+- **Family Background**: Residents of Ostina town
+- **Relationship**: Phrolova calls Caspian's parents "Aunt Mira" and "Uncle Garrett"
+- **Future**: Will be killed in the Lament strike on Ostina
 
 ---
 
@@ -98,8 +108,15 @@ This document serves as the central reference for all established story elements
 - **Key Stops**: [To be established in writing]
 - **Travel Logistics**: [To be detailed]
 
+#### Verdant Hollow
+- **Location**: Town in Ostina region, merchant stop
+- **Description**: Thatched roofs, stone chimneys, peaceful appearance
+- **Defenses**: High walls and watchtowers suggesting hard-won peace
+- **Status**: Active trading settlement where Kael's family stops for supplies
+- **Significance**: First town where Kael considers learning music
+
 #### Phrolova's Village (Destroyed)
-- **Location**: Within Ostina region
+- **Location**: Within Ostina region (separate from Verdant Hollow)
 - **Status**: Destroyed by Threnodians (canon)
 - **Significance**: Source of Phrolova's obsession with reviving villagers
 - **Current State**: [To be established]
@@ -174,12 +191,13 @@ This document serves as the central reference for all established story elements
 
 ### Pre-Story Background
 
-#### Shared Village Childhood
-- **Kael**: Born in same village as Phrolova, grows up learning piano due to lack of modern entertainment
-- **Phrolova**: Same village, different family, both experience normal childhood until meteor
-- **The Day of Reckoning**: Kael away on errands in town, witnesses meteor strike from distance
-- **Shared Tragedy**: Both lose their entire village and everyone they knew
-- **Different Coping**: Kael seeks normalcy, Phrolova seeks resurrection of the dead
+#### Shared Ostina Childhood
+- **Caspian**: Born in Ostina town, grows up learning piano due to lack of modern entertainment, traveling merchant family
+- **Phrolova**: Born in Ostina town, same age as Caspian, childhood playmates
+- **Family Connection**: Their parents know each other - Phrolova calls Caspian's parents "Aunt Mira" and "Uncle Garrett"
+- **Early Separation**: Caspian's family takes to merchant roads while Phrolova's family stays in Ostina
+- **Reunion**: Meet again in Verdant Hollow at age 6-7 during merchant stop
+- **Future Tragedy**: Ostina will be destroyed by Lament shard, both become sole survivors
 
 #### Kael's Development
 1. **Reincarnation**: Born with modern world memories intact

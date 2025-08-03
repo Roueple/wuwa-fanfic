@@ -1,7 +1,7 @@
-# Kael - Master Character Profile
+# Caspian - Master Character Profile
 
 ## Core Identity
-- **Full Name**: Kael [Surname TBD based on merchant family]
+- **Full Name**: Caspian Thorne
 - **Age**: Same as Phrolova (grows up parallel to her)
 - **Role**: Original MC, Power Couple Co-Protagonist
 - **Origin**: Isekai'd office worker with retained memories, born to traveling merchants in Ostina region
@@ -16,7 +16,7 @@
 - **Emotional Baggage**: Sense of displacement, longing for ordinary life
 
 ### Current Life (WuWa World)
-- **Birth Circumstances**: Born in same village as Phrolova in Ostina region
+- **Birth Circumstances**: Born in Ostina region, same age as Phrolova
 - **Family**: Traveling merchant family, away on errands during meteor strike
 - **Childhood**: Grew up with deep appreciation for music due to lack of modern entertainment
 - **Survival**: Only other survivor who truly understands Phrolova's loss

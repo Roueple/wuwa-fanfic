@@ -12,7 +12,7 @@
 ## Act Structure
 
 ### Act I: Origins and Ordinary Life vs. Extraordinary Reality (Chapters 1-35)
-- [ ] Chapter-01-[Title] - Kael's early childhood
+- [x] [Chapter-01-Echoes-of-Another-Life](Chapter-01-Echoes-of-Another-Life.md) - Caspian's early childhood
 - [ ] Chapter-02-[Title] - Musical discovery
 - [ ] Chapter-03-[Title] - First supernatural incident
 - [ ] Chapter-04-[Title] - Family settlement in Ostina
@@ -67,8 +67,8 @@
 [Chapters to be added as written]
 
 ## Writing Progress
-- **Chapters Completed**: 0
-- **Current Chapter**: [Next chapter to write]
+- **Chapters Completed**: 1
+- **Current Chapter**: Chapter-02-Musical-Discovery
 - **Total Target**: 150+ chapters
 
 ## Notes

@@ -160,7 +160,12 @@
   - _Requirements: 4.3, 5.1_
 
 - [ ] 4. Write Act I - Origins and Ordinary Life vs. Extraordinary Reality (Chapters 1-35)
-- [ ] 4.1 Write Kael's early childhood (Chapter 1)
+- [x] 4.1 Write Kael's early childhood (Chapter 1)
+
+
+
+
+
   - Establish reincarnation with past life memories intact
   - Show merchant family background in Ostina region
   - Introduce his modern world knowledge and displacement feelings
@@ -169,7 +174,12 @@
   - **Reference**: Character consistency guide, master timeline, world-building guide for Ostina region
   - _Requirements: 1.1, 1.2_
 
-- [ ] 4.2 Write Kael's musical discovery (Chapter 2)
+- [x] 4.2 Write Kael's musical discovery (Chapter 2)
+
+
+
+
+
   - Show his discovery of piano due to lack of modern entertainment
   - Establish his natural musical talent and emotional connection to music
   - Introduce his family's traveling merchant routes
