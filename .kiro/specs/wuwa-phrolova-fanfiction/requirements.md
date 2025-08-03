@@ -2,78 +2,96 @@
 
 ## Introduction
 
-This fanfiction novel is set in the Wuthering Waves universe, featuring an original male protagonist (late-20) who gets isekai-ed into the world during Phrolova's wandering period. The story focuses on their chance meeting and developing relationship, while the MC gradually becomes involved in the main storyline. The ultimate goal is to end the Lament before the main story of Wuthering Waves 1.0 begins, achieving what the Past Rover could not accomplish.
+This fanfiction follows Caspian, a reincarnated office worker who retains his past life memories and is reborn in the Wuthering Waves world. The story focuses on his relationship with Phrolova, exploring themes of trauma, survival, and the tension between wanting ordinary life and being drawn into extraordinary circumstances. The narrative style follows Korean webnovel conventions with heavy internal monologue, self-deprecating humor, and genre awareness.
+
+The story is structured in arcs, with Arc 1 serving as the foundation (Prologue + 5 chapters, ~15,000-20,000 words total) that establishes the characters, their relationship, and sets up future developments.
 
 ## Requirements
 
-### Requirement 1: Character Development and Background
+### Requirement 1: Character Foundation and Development
 
-**User Story:** As a reader, I want to understand the MC's background and personality, so that I can connect with his journey from ordinary person to someone capable of changing fate.
-
-#### Acceptance Criteria
-
-1. WHEN the story begins THEN the MC SHALL be established as a late-20s man from our world who worked a regular 8-5 job
-2. WHEN the MC is isekai-ed THEN he SHALL retain memories of his past life but have limited knowledge of Wuthering Waves (only knowing it's a gacha game with heroes, villains, and final boss)
-3. WHEN the MC is born into the WuWa world THEN he SHALL be from the same village as Phrolova, but away on errands in town during the meteor strike
-4. WHEN the MC learns about his new world THEN he SHALL initially decide to live an ordinary life despite the chaos around him
-5. WHEN the MC's powers awaken THEN it SHALL be through a meaningful event that connects to his character development
-
-### Requirement 2: Phrolova Characterization and Relationship
-
-**User Story:** As a reader, I want to see authentic interactions between the MC and Phrolova, so that their developing relationship feels natural and compelling.
+**User Story:** As a reader, I want to understand Caspian's unique perspective and growth, so that I can connect with his internal struggles and development.
 
 #### Acceptance Criteria
 
-1. WHEN Phrolova is introduced THEN she SHALL be portrayed during her wandering period, playing sorrowful music in operas between towns
-2. WHEN the MC and Phrolova first meet THEN it SHALL be a chance encounter that feels organic to both their journeys
-3. WHEN Phrolova shows interest in the MC THEN it SHALL be based on genuine character traits and interactions
-4. WHEN their relationship develops THEN both characters SHALL experience meaningful character growth
-5. WHEN their fates intertwine THEN it SHALL gradually pull the MC into the larger WuWa storyline
+1. WHEN Caspian's past life memories are revealed THEN the system SHALL show his modern office worker background and analytical mindset
+2. WHEN Caspian faces dangerous situations THEN the system SHALL demonstrate his internal conflict between self-preservation and heroic instincts
+3. WHEN Caspian interacts with others THEN the system SHALL show his genre awareness without breaking the fourth wall
+4. WHEN Caspian experiences trauma THEN the system SHALL show realistic psychological responses and coping mechanisms
+5. IF Caspian uses his "Resonance Analysis" power THEN the system SHALL show both its capabilities and its physical/emotional costs
 
-### Requirement 3: Power System and Awakening
+### Requirement 2: Phrolova Integration and Relationship Dynamics
 
-**User Story:** As a reader, I want to understand the MC's unique abilities and how they develop, so that his eventual capability to end the Lament feels earned and believable.
-
-#### Acceptance Criteria
-
-1. WHEN the MC's powers are revealed THEN they SHALL be unique but fit within the WuWa universe's established rules
-2. WHEN the awakening occurs THEN it SHALL be triggered by a significant emotional or physical catalyst
-3. WHEN powers develop THEN they SHALL grow gradually through the story rather than appearing fully formed
-4. WHEN the MC uses his abilities THEN they SHALL have clear limitations and costs to maintain tension
-5. WHEN the power system is explained THEN it SHALL connect logically to his ability to eventually end the Lament
-
-### Requirement 4: World Integration and Canon Characters
-
-**User Story:** As a reader, I want to see how the MC interacts with the established WuWa world and characters, so that the story feels authentic to the source material.
+**User Story:** As a reader, I want to see the complex relationship between Caspian and Phrolova develop naturally, so that their bond feels authentic and meaningful while honoring her canonical character depth.
 
 #### Acceptance Criteria
 
-1. WHEN original WuWa characters appear THEN they SHALL maintain their established personalities and motivations
-2. WHEN the MC encounters villains THEN the interactions SHALL feel true to their canon characterizations
-3. WHEN world-building elements are introduced THEN they SHALL be consistent with WuWa lore
-4. WHEN the MC gets pulled into the main storyline THEN it SHALL happen gradually through logical story progression
-5. WHEN canon events are referenced THEN they SHALL be accurate to the source material's timeline
+1. WHEN Phrolova is introduced THEN the system SHALL establish her as a talented but naturally melancholic musician with conductor-like grace and her own agency
+2. WHEN Caspian and Phrolova interact THEN the system SHALL show their shared musical connection (piano/violin duets) and mutual understanding as fellow survivors
+3. WHEN their childhood friendship is shown THEN the system SHALL demonstrate genuine affection while showing Caspian's recognition of her "main character" status and future tragic potential
+4. WHEN Caspian distances himself post-trauma THEN the system SHALL show Phrolova's confusion and persistent attempts to reconnect, reflecting her canonical determination and unwillingness to abandon connections
+5. IF they reunite after the Lament THEN the system SHALL show both characters processing trauma while supporting each other, with Caspian's stabilization preventing her canonical corruption path
+6. WHEN Phrolova's powers manifest THEN the system SHALL show chaotic frequency manipulation that hints at her future potential for Echo manipulation and Tacet Discord summoning
+7. WHEN her musical abilities are displayed THEN the system SHALL emphasize her violin skills and natural conductor-like movements that will define her future combat style
 
-### Requirement 5: Plot Structure and Pacing
+### Requirement 3: World Building and Lore Consistency
 
-**User Story:** As a reader, I want a well-paced story that builds toward the climactic goal, so that the journey feels satisfying and the ending impactful.
-
-#### Acceptance Criteria
-
-1. WHEN the story begins THEN it SHALL establish the MC's ordinary life before the major plot events
-2. WHEN the MC meets Phrolova THEN it SHALL serve as the catalyst for his involvement in larger events
-3. WHEN the MC encounters challenges THEN they SHALL escalate in difficulty and stakes appropriately
-4. WHEN the story progresses THEN it SHALL maintain focus on both the romance and the larger plot
-5. WHEN the climax approaches THEN the MC SHALL have developed enough to believably attempt ending the Lament
-
-### Requirement 6: Ending the Lament Goal
-
-**User Story:** As a reader, I want to see the MC achieve what the Past Rover could not, so that the story provides a satisfying resolution that changes the WuWa timeline.
+**User Story:** As a reader, I want the story world to feel authentic to Wuthering Waves lore, so that the fanfiction enhances rather than contradicts the original setting.
 
 #### Acceptance Criteria
 
-1. WHEN the MC learns about the Lament THEN he SHALL understand its significance to the world
-2. WHEN the MC decides to act THEN his motivation SHALL be clearly established through his relationships and experiences
-3. WHEN the attempt to end the Lament occurs THEN it SHALL happen before the main WuWa 1.0 story timeline
-4. WHEN the MC confronts the Lament THEN his unique abilities and growth SHALL be the key to success
-5. WHEN the Lament is ended THEN the consequences SHALL be explored and the new timeline established
+1. WHEN describing the post-Lament world THEN the system SHALL accurately represent the unstable physics and reality-warping effects
+2. WHEN Tacet Discords appear THEN the system SHALL show them as genuine threats requiring proper countermeasures
+3. WHEN locations are described THEN the system SHALL maintain consistency with established geography and atmosphere
+4. IF new locations are introduced THEN the system SHALL ensure they fit logically within the established world
+5. WHEN powers are used THEN the system SHALL follow established rules about Resonator abilities and limitations
+
+### Requirement 4: Narrative Style and Voice
+
+**User Story:** As a reader, I want the story to capture the Korean webnovel style effectively, so that it feels authentic to the genre while remaining accessible.
+
+#### Acceptance Criteria
+
+1. WHEN Caspian's internal monologue is shown THEN the system SHALL use self-deprecating humor and analytical observations
+2. WHEN dialogue occurs THEN the system SHALL differentiate between characters' internal thoughts and external speech
+3. WHEN tragic events happen THEN the system SHALL balance genuine emotion with protective cynicism
+4. IF genre awareness is shown THEN the system SHALL reference patterns without explicit meta-commentary
+5. WHEN pacing is established THEN the system SHALL mix introspection with action appropriately
+
+### Requirement 5: Arc Structure and Plot Development
+
+**User Story:** As a reader, I want the story to have clear progression and satisfying development, so that each chapter builds meaningfully toward the overall narrative.
+
+#### Acceptance Criteria
+
+1. WHEN the Prologue is written THEN the system SHALL establish Caspian's childhood, power awakening, and personality shift
+2. WHEN Arc 1 chapters are written THEN the system SHALL show the progression from normal life to crisis to partnership
+3. WHEN the Lament event occurs THEN the system SHALL demonstrate its devastating impact and force character reunion
+4. IF future arcs are planned THEN the system SHALL set up plot threads and character dynamics for continuation
+5. WHEN each chapter ends THEN the system SHALL provide appropriate hooks and emotional resolution
+
+### Requirement 6: Power System and Abilities
+
+**User Story:** As a reader, I want the characters' abilities to feel unique and meaningful while staying true to canonical power development, so that they enhance the story without becoming overpowered solutions.
+
+#### Acceptance Criteria
+
+1. WHEN Caspian's "Resonance Analysis" is used THEN the system SHALL show detailed information gathering with appropriate costs (sensory overload, bleeding, emotional absorption)
+2. WHEN Phrolova's musical abilities manifest THEN the system SHALL demonstrate both beauty and potential danger, showing chaotic frequency manipulation that hints at her future Echo manipulation and Tacet Discord summoning capabilities
+3. WHEN their powers interact THEN the system SHALL show complementary effects (analysis + stabilization) that require both characters and reflect the harmony/discord thematic duality
+4. IF powers are overused THEN the system SHALL show realistic consequences and limitations, with Phrolova's instability requiring Caspian's stabilization
+5. WHEN combat occurs THEN the system SHALL emphasize strategy and teamwork over raw power, with Phrolova's conductor-like grace and Caspian's analytical approach
+6. WHEN Phrolova's future potential is hinted THEN the system SHALL reference her canonical abilities (Lycoris wand, Hecate summoning, reality manipulation through music) without making them immediately accessible
+7. WHEN power development is shown THEN the system SHALL maintain consistency with canonical progression while showing how partnership changes the trajectory from corruption to growth
+
+### Requirement 7: Emotional Authenticity and Trauma Handling
+
+**User Story:** As a reader, I want the characters' emotional responses to feel genuine and respectful, so that traumatic events have appropriate weight and consequences.
+
+#### Acceptance Criteria
+
+1. WHEN characters experience loss THEN the system SHALL show realistic grief processing and coping mechanisms
+2. WHEN trauma responses occur THEN the system SHALL avoid trivializing or romanticizing psychological damage
+3. WHEN healing happens THEN the system SHALL show gradual progress rather than instant recovery
+4. IF dark humor is used THEN the system SHALL ensure it serves as a coping mechanism rather than dismissing pain
+5. WHEN relationships develop THEN the system SHALL show how shared trauma can both bond and complicate connections
