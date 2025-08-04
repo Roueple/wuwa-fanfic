@@ -382,4 +382,130 @@ This document contains direct user inputs and revisions that take absolute prior
 
 ---
 
-*Next user input will be recorded as Entry 24*
+### Entry 24 - [2025-02-08]
+**User Request:** Check user-priority-overrides.md and override every single detail that has been written for the context, not the chapter, but context for the chapters. Based on my priority there
+
+**Critical Action Taken:**
+- Reviewed all 23 previous user priority override entries
+- Updated spec requirements.md, design.md, and tasks.md to reflect ALL user priority overrides
+- Key corrections implemented:
+  - Character name: Caspian (not Kael)
+  - Father: Marcus as wool processor (not blacksmith)
+  - World name: Solaris-3 (learned from adults)
+  - No game knowledge: Caspian doesn't know this is WuWa world
+  - Prologue structure: Only fight scene, backstory in separate chapters
+  - Chapter count: 11-12 chapters total for Arc 1
+  - Character details: All Ostina residents, Phrolova's appearance, timeline details
+  - Writing style: Balance of thought, talk, and story elements
+  - Power canonicity: Noted need to resolve non-elemental power within WuWa's six-element system
+
+**Status:** Spec context fully updated to match all user priority overrides
+
+---
+
+### Entry 25 - [2025-02-08]
+**User Request:** Add canon characters to Ostina village
+
+**Canon Characters Added:**
+- **Luneau**: Young man with dark blue hair, maybe around 5-10 years older than Phrolova and Caspian
+- **Aeschylus**: Old man with white hair and white beard
+
+**Critical Clarification:** ALL village residents are canon characters from Wuthering Waves:
+- **Canon Village Residents**: Betty, Triss, Noemie, Leah (Granny Leah), Searle, Pierce, Luneau (young man, dark blue hair), Aeschylus (old man, white hair/beard)
+- **Fate**: All canon villagers die in the Lament event
+- **Survivors**: Only Phrolova and Caspian survive the village destruction
+
+**Status:** Updated spec context with canon character clarification
+
+---
+
+### Entry 26 - [2025-02-08]
+**User Request:** Clarification about village residents being canon characters
+
+**Critical Clarification:**
+- ALL village residents (Betty, Triss, Noemie, Leah, Searle, Pierce, Luneau, Aeschylus) are canon characters from Wuthering Waves
+- All canon villagers die in the Lament event
+- Only Phrolova and Caspian survive the village destruction
+
+**Status:** Clarification recorded for future reference
+
+---
+
+### Entry 27 - [2025-02-08]
+**User Request:** Fix condescending tone in Chapter 1
+
+**Issue:** Line "*Little man.* There it was again. I had to resist the urge to roll my eyes. If only he knew that his "little man" had once sat through board meetings that would make grown adults weep." is too condescending
+
+**Fix Required:** Make it more like internal sulking, mentioning his actual mental age
+- Example: "Mentally I'm 31 though..." 
+- Less condescending, more sulky/petulant internal reaction
+- Show his frustration at being treated like a child when he has adult memories
+
+**Status:** Ready to fix the tone in Chapter 1
+
+---
+
+### Entry 28 - [2025-02-08]
+**User Request:** Fix multiple issues in Chapter 2
+
+**Issues to Fix:**
+1. **Phrolova's appearance**: Add "white dress" to her description
+2. **Piano skill**: Don't call it "skill transfer" - if you remember piano, you can directly play it, it's just retained memory
+3. **Reincarnation terminology**: Use "remembering past life" instead of "reincarnation" - normally people just don't remember
+4. **Piano piece**: Don't say "melody I half-remembered from previous life" - use specific piece like "Canon in D" or "River Flows in You"
+5. **Supporting character thinking**: He still thinks he's main character at this point. Should think "Am I glowing too?" then check mirror, doesn't seem like it
+6. **Phrolova MC judgment**: He should ask "Is Phrolova truly the MC?" and keep judgment until he sees other "shiny" people
+7. **Supporting character fear**: Remove the part about supporting characters getting killed off - he still thinks he's the protagonist
+
+**Status:** Ready to fix Chapter 2 with these corrections
+
+---
+
+### Entry 29 - [2025-02-08]
+**User Request:** Fix inappropriate "Famous last words" line in Chapter 2
+
+**Issue:** The line "Famous last words" after Phrolova says "I think we could make beautiful music together" doesn't make sense - they're not fighting god or facing danger, just talking about music
+
+**Fix Required:** Remove or replace the "Famous last words" line with something more appropriate to the innocent, hopeful context
+
+**Status:** Ready to fix the inappropriate dramatic foreshadowing
+
+---
+
+### Entry 30 - [2025-02-08]
+**User Request:** Fix Chapter 3 issues and align with prologue
+
+**Issues Identified:**
+1. **Remove inappropriate heroine reference**: "Childhood friend who was obviously the heroine, check" - he's not a pedo, this is inappropriate for a 5-year-old
+2. **Wrong supernatural incident**: The reality-tearing scene with Phrolova doesn't match the prologue - his power awakening should happen alone during Tacet Discord encounter
+3. **Misaligned timeline**: Chapter 3 should build toward the prologue events, not create different supernatural incidents
+4. **Wrong tone**: Too dramatic and supernatural for this stage - should be more mundane adventure-seeking
+
+**Correct Direction Based on Prologue:**
+- His power awakening happens alone during Tacet Discord encounter on merchant road
+- No reality-tearing incidents with Phrolova at this stage
+- Focus on his growing overconfidence and adventure-seeking behavior
+- Build toward the traumatic encounter that shatters his delusions
+
+**Status:** Ready to remake Chapter 3 to align with prologue timeline and events
+
+### Entry 31 - [2025-02-08]
+**User Request:** Fix Chapter 3 length and character interactions
+
+**Critical Issues:**
+1. **Chapter too short**: Previous version was right length, new version became too short
+2. **Wrong character dynamic**: Caspian shouldn't reveal his power to anyone, including Phrolova
+3. **Wrong friendship type**: They can be music friends, but NOT adventure friends
+4. **Power secrecy**: Caspian's ability to see "important" people must remain his secret
+5. **Separate activities**: Caspian's adventure-seeking should be solo, not with Phrolova
+
+**Correct Approach:**
+- Maintain proper chapter length (2,500-3,500 words)
+- Keep Caspian's power completely secret
+- Show them as music friends only
+- His adventure-seeking is a solo activity
+- Build toward prologue without revealing his abilities
+
+**Status:** Ready to remake Chapter 3 with proper length and character dynamics
+
+*Next user input will be recorded as Entry 32*

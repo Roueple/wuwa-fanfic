@@ -2,9 +2,17 @@
 
 ## Introduction
 
-This fanfiction follows Caspian, a reincarnated office worker who retains his past life memories and is reborn in the Wuthering Waves world. The story focuses on his relationship with Phrolova, exploring themes of trauma, survival, and the tension between wanting ordinary life and being drawn into extraordinary circumstances. The narrative style follows Korean webnovel conventions with heavy internal monologue, self-deprecating humor, and genre awareness.
+This fanfiction follows Caspian, a reincarnated office worker who retains his past life memories and is reborn in the Wuthering Waves world (Solaris-3). The story focuses on his relationship with Phrolova, exploring themes of trauma, survival, and the tension between wanting ordinary life and being drawn into extraordinary circumstances. The narrative style follows Korean webnovel conventions with heavy internal monologue, self-deprecating humor, and balanced composition of thought, talk, and story elements.
 
-The story is structured in arcs, with Arc 1 serving as the foundation (Prologue + 5 chapters, ~15,000-20,000 words total) that establishes the characters, their relationship, and sets up future developments.
+**Critical Context**: Caspian doesn't know this is the WuWa world - he never played the game, only heard of it as "Genshin killer." He has no future knowledge or insider information, just generic isekai expectations that fail him. The world name "Solaris-3" was learned naturally from adults.
+
+**Key Characters in Ostina**: Phrolova (survivor), plus canon WuWa characters: Betty, Triss, Noemie, Leah (Granny Leah - kind but strict), Searle, Pierce, Luneau (young man with dark blue hair, 5-10 years older than MC/Phrolova), Aeschylus (old man with white hair and white beard). Triss is born when MC/Phrolova are 10. All canon villagers die in the Lament event - only Phrolova and Caspian survive.
+
+**Timeline**: 500 years after initial Lament = 10k regional laments + 5 global laments (world is insanely dangerous). Phrolova's power awakening happens at age 16 when Lament fragment drops in Ostina. MC's power awakening should happen during merchant travel, NOT in Ostina.
+
+**Family Background**: Marcus (father) is wool processor, family becomes merchants later. This progression makes logical sense for merchant trade development.
+
+The story is structured in arcs, with Arc 1 serving as the foundation (Prologue + 11-12 chapters total) that establishes the characters, their relationship, and sets up future developments.
 
 ## Requirements
 
@@ -14,11 +22,13 @@ The story is structured in arcs, with Arc 1 serving as the foundation (Prologue 
 
 #### Acceptance Criteria
 
-1. WHEN Caspian's past life memories are revealed THEN the system SHALL show his modern office worker background and analytical mindset
-2. WHEN Caspian faces dangerous situations THEN the system SHALL demonstrate his internal conflict between self-preservation and heroic instincts
-3. WHEN Caspian interacts with others THEN the system SHALL show his genre awareness without breaking the fourth wall
-4. WHEN Caspian experiences trauma THEN the system SHALL show realistic psychological responses and coping mechanisms
-5. IF Caspian uses his "Resonance Analysis" power THEN the system SHALL show both its capabilities and its physical/emotional costs
+1. WHEN Caspian's past life memories are revealed THEN the system SHALL show his modern office worker background and analytical mindset without meta-awareness of being in a game world
+2. WHEN Caspian faces dangerous situations THEN the system SHALL demonstrate his internal conflict between self-preservation and heroic instincts, showing raw internal dialogue like "Fuck, fuck" rather than explaining trauma directly
+3. WHEN Caspian interacts with others THEN the system SHALL show his genre awareness without breaking the fourth wall or referencing "other isekai protagonists"
+4. WHEN Caspian experiences trauma THEN the system SHALL show realistic psychological responses through internal self-conversation and thinking out loud
+5. IF Caspian uses his "Resonance Analysis" power THEN the system SHALL show both its capabilities and its physical/emotional costs, noting this is a non-elemental analytical power that needs canon-compliant explanation
+6. WHEN showing Caspian's isekai dreams THEN the system SHALL include his initial "Here I come! Caspian the protagonist HAHAHAHHAHA!" enthusiasm contrasted with later despair
+7. WHEN Caspian reflects on his situation THEN the system SHALL emphasize his lack of game knowledge and world understanding as his key disadvantage
 
 ### Requirement 2: Phrolova Integration and Relationship Dynamics
 
@@ -52,11 +62,13 @@ The story is structured in arcs, with Arc 1 serving as the foundation (Prologue 
 
 #### Acceptance Criteria
 
-1. WHEN Caspian's internal monologue is shown THEN the system SHALL use self-deprecating humor and analytical observations
+1. WHEN Caspian's internal monologue is shown THEN the system SHALL use self-deprecating humor and analytical observations with heavy internal dialogue and self-conversation
 2. WHEN dialogue occurs THEN the system SHALL differentiate between characters' internal thoughts and external speech
-3. WHEN tragic events happen THEN the system SHALL balance genuine emotion with protective cynicism
-4. IF genre awareness is shown THEN the system SHALL reference patterns without explicit meta-commentary
-5. WHEN pacing is established THEN the system SHALL mix introspection with action appropriately
+3. WHEN tragic events happen THEN the system SHALL balance genuine emotion with protective cynicism, never mocking WuWa elements that readers love
+4. IF genre awareness is shown THEN the system SHALL reference patterns without explicit meta-commentary or awareness of being in a game world
+5. WHEN pacing is established THEN the system SHALL maintain healthy balance of thought, talk, and story elements rather than heavy blocks of any single type
+6. WHEN writing combat scenes THEN the system SHALL ensure realism (6-year-old fist can't damage Tacet Discord - use weapons like rocks)
+7. WHEN ending scenes THEN the system SHALL include foreshadowing that ordinary life might be harder than expected ("It must be easier... Right?")
 
 ### Requirement 5: Arc Structure and Plot Development
 
@@ -64,11 +76,13 @@ The story is structured in arcs, with Arc 1 serving as the foundation (Prologue 
 
 #### Acceptance Criteria
 
-1. WHEN the Prologue is written THEN the system SHALL establish Caspian's childhood, power awakening, and personality shift
-2. WHEN Arc 1 chapters are written THEN the system SHALL show the progression from normal life to crisis to partnership
-3. WHEN the Lament event occurs THEN the system SHALL demonstrate its devastating impact and force character reunion
-4. IF future arcs are planned THEN the system SHALL set up plot threads and character dynamics for continuation
-5. WHEN each chapter ends THEN the system SHALL provide appropriate hooks and emotional resolution
+1. WHEN the Prologue is written THEN the system SHALL focus only on the Tacet Discord fight scene and power awakening, with backstory content moved to separate chapters
+2. WHEN Arc 1 chapters are written THEN the system SHALL show progression through 11-12 chapters total until Ostina's destruction
+3. WHEN Chapter 1 is written THEN the system SHALL include world name "Solaris-3", isekai dream opening, and character timeline showing at age 3 he wants adventurous life (not peaceful life)
+4. WHEN Chapter 2 is written THEN the system SHALL flesh out Phrolova's uniqueness that only he can see, showing others don't see her "glow" as obviously
+5. WHEN the Lament event occurs THEN the system SHALL demonstrate its devastating impact and force character reunion
+6. IF future arcs are planned THEN the system SHALL set up plot threads and character dynamics for continuation
+7. WHEN each chapter ends THEN the system SHALL provide appropriate hooks and emotional resolution
 
 ### Requirement 6: Power System and Abilities
 

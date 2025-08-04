@@ -23,16 +23,6 @@
   - _Requirements: 3.1, 3.2, 6.1, 6.2_
 
 - [x] 1.3 Create narrative style template
-
-
-
-
-
-
-
-
-
-
   - Document Korean webnovel style requirements and voice patterns
   - Create internal monologue flow templates and structure guidelines
   - Establish humor integration patterns and emotional balance requirements
@@ -43,44 +33,107 @@
   - Target length: 1,000-1,500 words
   - POV: Caspian (First Person)
   - Tone: Desperate, traumatic awakening scene
-  - Focus: The Tacet Discord fight and power awakening moment
-  - Show the terror and despair despite victory
+  - Focus: ONLY the Tacet Discord fight and power awakening moment (backstory moved to separate chapters)
+  - Include opening about isekai dreams and world name "Solaris-3"
+  - Show contrast between "Here I come! Caspian the protagonist HAHAHAHHAHA!" and current despair
+  - Add internal dialogue and self-conversation, not just exposition
+  - End with realization that ordinary life seems better ("Better boring than dying right?")
+  - Add foreshadowing that ordinary life might be harder than expected
+  - Use realistic combat (6-year-old can't damage TD with fist - use rock/weapon)
+  - Remove any mocking of WuWa elements
   - _Requirements: 1.1, 1.4, 5.1, 7.1_
 
-- [ ] 3. Write Chapter 1: "Second Chances" (Age 3-4)
+- [x] 3. Write Chapter 1: "Second Chances" (Age 3-4)
   - Target length: 2,000-2,500 words
   - POV: Caspian (First Person)
   - Tone: Childhood innocence with growing awareness
   - Opening line: "My first clear memory wasn't of this world."
+  - Include world name "Solaris-3" learned from adults
+  - Add isekai dream opening about sword and magic being every man's dream
+  - Show his enthusiastic "Here I come! Caspian the protagonist HAHAHAHHAHA!" attitude
+  - Introduce Marcus (father) as wool processor, not blacksmith
   - Show gradual return of past life memories and modern knowledge
-  - Introduce merchant parents and Ostina village setting
+  - Introduce Ostina village setting with canon WuWa characters: Betty, Triss, Noemie, Granny Leah, Searle, Pierce, Luneau (young man with dark blue hair, 5-10 years older), Aeschylus (old man with white hair and white beard) - all die in Lament, only Phrolova and Caspian survive
   - Discover the dangerous nature of this world through books
-  - Establish initial protagonist assumptions
-  - _Requirements: 1.1, 1.2, 3.1_
+  - At age 3 he wants adventurous life, NOT peaceful life (peaceful desire comes after trauma)
+  - Remove meta-awareness about "other isekai protagonists"
+  - Emphasize his lack of game knowledge as disadvantage
+  - Balance thought, talk, and story elements
+  - Fix condescending tone toward parents (make it more sulky internal reaction about mental age)
+  - _Requirements: 1.1, 1.2, 3.1, 4.1, 5.1_
 
-- [ ] 4. Write Chapter 2: "The Silver-Haired Girl" (Age 4)
+- [x] 4. Write Chapter 2: "The Silver-Haired Girl" (Age 4)
+
   - Target length: 2,000-2,500 words
   - POV: Caspian (First Person)
   - Tone: Wonder and musical connection
   - Show first meeting with Phrolova through music
-  - Establish her silver hair, violet eyes, and otherworldly beauty
+  - Establish her silver hair, violet eyes, and otherworldly beauty (check character sheet)
+  - Add white dress to her description
+  - Flesh out Phrolova's uniqueness that only he can see
+  - Show him trying to ask other people about what he sees
+  - Make it clear others don't see her "glow" as obviously as he does
+  - Imply his eyes might be special, but he only knows to that extent
+  - Build mystery around his unique perception
   - Create piano/violin duet scene with supernatural harmony
-  - Show recognition of her "main character" status
-  - Begin musical partnership and friendship
-  - _Requirements: 2.1, 2.2, 6.1_
+  - Use specific piano piece like "Canon in D" instead of vague melody
+  - Show him wondering "Am I glowing too?" and checking mirror
+  - Keep judgment about her being MC until he sees other "shiny" people
+  - Remove inappropriate "Famous last words" line
+  - Use "remembering past life" terminology instead of "reincarnation"
+  - Balance thought, talk, and story elements
+  - _Requirements: 2.1, 2.2, 5.1, 6.1_
 
-- [ ] 5. Write Chapter 3: "Musical Legends" (Age 4-5)
-  - Target length: 2,000-2,500 words
+- [x] 5. Write Chapter 3: "The Adventure Phase" (Age 5)
+
+  - Target length: 2,500-3,000 words
   - POV: Caspian (First Person)
-  - Tone: Growing confidence and partnership
-  - Show their musical partnership becoming legendary in Ostina
-  - Introduce village characters: Betty, Granny Leah, others
-  - Develop growing friendship and musical connection
-  - Show Phrolova's abilities growing stronger
-  - Establish Caspian's supporting character assumptions
-  - _Requirements: 2.1, 2.2, 6.1_
+  - Tone: Growing overconfidence leading to disaster
+  - Show his peak protagonist complex and adventure-seeking behavior
+  - Solo exploration and monster-hunting attempts (NOT with Phrolova)
+  - Keep his power completely secret from everyone
+  - Musical friendship with Phrolova separate from his adventure activities
+  - Build toward the traumatic Tacet Discord encounter from prologue
+  - Show his overconfidence and genre expectations
+  - Remove inappropriate references and maintain proper chapter length
+  - Focus on building toward prologue events without revealing abilities
+  - _Requirements: 1.1, 1.4, 5.1, 7.1_
 
-- [ ] 6. Write Chapter 4: "Important Characters" (Age 5)
+- [ ] 6. Revise Chapter 1 based on user priority overrides
+  - Fix condescending tone toward parents (Entry 27)
+  - Ensure balance of thought, talk, and story elements (Entry 23)
+  - Verify all canon character names and details are included
+  - Check that he wants adventurous life at age 3, not peaceful life (Entry 22)
+  - Ensure world name "Solaris-3" is properly integrated (Entry 6)
+  - Remove any remaining meta-awareness about "other isekai protagonists" (Entries 10-12)
+  - _Requirements: 1.1, 1.2, 3.1, 4.1, 5.1_
+
+- [ ] 7. Revise Chapter 2 based on user priority overrides
+  - Add white dress to Phrolova's description (Entry 28)
+  - Fix piano skill explanation - use "retained memory" not "skill transfer" (Entry 28)
+  - Use "remembering past life" instead of "reincarnation" terminology (Entry 28)
+  - Use specific piano piece like "Canon in D" instead of vague melody (Entry 28)
+  - Show him wondering "Am I glowing too?" and checking mirror (Entry 28)
+  - Keep judgment about her being MC until he sees other "shiny" people (Entry 28)
+  - Remove inappropriate "Famous last words" line (Entry 29)
+  - _Requirements: 2.1, 2.2, 5.1, 6.1_
+
+- [ ] 8. Revise Chapter 3 based on user priority overrides
+  - Remove inappropriate heroine reference for 5-year-old (Entry 30)
+  - Align with prologue timeline - no reality-tearing incidents (Entry 30)
+  - Keep power awakening as solo Tacet Discord encounter (Entry 30)
+  - Maintain proper chapter length (2,500-3,000 words) (Entry 31)
+  - Keep Caspian's power completely secret from everyone (Entry 31)
+  - Separate activities: music friendship vs solo adventure-seeking (Entry 31)
+  - Build toward prologue events without revealing abilities (Entry 31)
+  - _Requirements: 1.1, 1.4, 5.1, 7.1_
+
+- [x] 9. Write Chapter 4: "Important Characters" (Age 5)
+
+
+
+
+
   - Target length: 2,000-2,500 words
   - POV: Caspian (First Person)
   - Tone: Growing awareness and unease
@@ -91,7 +144,7 @@
   - Build toward seeking his own role in the narrative
   - _Requirements: 1.4, 5.1, 7.1_
 
-- [ ] 7. Write Chapter 5: "Distance Equals Survival" (Age 6)
+- [ ] 10. Write Chapter 5: "Distance Equals Survival" (Age 6)
   - Target length: 2,500-3,000 words
   - POV: Caspian (First Person)
   - Tone: Trauma, realization, and withdrawal
@@ -103,7 +156,7 @@
   - End with beginning to distance himself from Phrolova
   - _Requirements: 1.1, 1.4, 7.2_
 
-- [ ] 8. Write Chapter 6: "Ten Years of Preparation" (Age 16)
+- [ ] 11. Write Chapter 6: "Ten Years of Preparation" (Age 16)
   - Target length: 2,000-2,500 words
   - POV: Caspian (First Person)
   - Tone: Mature, cynical, internally conflicted
@@ -114,7 +167,7 @@
   - Set up the situation that leads to the village's destruction
   - _Requirements: 1.1, 1.4, 3.1_
 
-- [ ] 9. Write Chapter 7: "The Last Concert" (Age 16)
+- [ ] 12. Write Chapter 7: "The Last Concert" (Age 16)
   - Target length: 2,500-3,000 words
   - POV: Caspian (First Person)
   - Tone: Bittersweet, internal conflict
@@ -124,7 +177,7 @@
   - Create Caspian's internal struggle watching her perform
   - _Requirements: 2.1, 2.2, 4.1_
 
-- [ ] 10. Write Chapter 8: "Family Business" (Age 16)
+- [ ] 13. Write Chapter 8: "Family Business" (Age 16)
   - Target length: 2,000-2,500 words
   - POV: Caspian (First Person)
   - Tone: Normal family interaction with underlying tension
@@ -135,7 +188,7 @@
   - Focus on final family moments before tragedy
   - _Requirements: 2.2, 5.2, 7.1_
 
-- [ ] 11. Write Chapter 9: "When the Sky Fell" (Age 16)
+- [ ] 14. Write Chapter 9: "When the Sky Fell" (Age 16)
   - Target length: 2,000-2,500 words
   - POV: Caspian (First Person)
   - Tone: Building horror and desperate urgency
@@ -146,7 +199,7 @@
   - Focus on the Lament event and immediate response
   - _Requirements: 3.1, 5.2, 7.1_
 
-- [ ] 12. Write Chapter 10: "Ashes and Echoes" (Age 16)
+- [ ] 15. Write Chapter 10: "Ashes and Echoes" (Age 16)
   - Target length: 2,500-3,000 words
   - POV: Caspian (First Person)
   - Tone: Grief, horror, desperate searching
@@ -157,7 +210,7 @@
   - Focus on processing the total devastation
   - _Requirements: 3.1, 7.1, 7.2_
 
-- [ ] 13. Write Chapter 11: "Two Survivors" (Age 16)
+- [ ] 16. Write Chapter 11: "Two Survivors" (Age 16)
   - Target length: 3,000-3,500 words
   - POV: Caspian (First Person)
   - Tone: Trauma, reunion, responsibility
@@ -168,7 +221,7 @@
   - Focus on finding Phrolova and using power to help her
   - _Requirements: 2.2, 6.1, 6.2, 7.1, 7.2_
 
-- [ ] 14. Write Chapter 12: "New Beginnings" (Age 16)
+- [ ] 17. Write Chapter 12: "New Beginnings" (Age 16)
   - Target length: 2,500-3,000 words
   - POV: Caspian (First Person)
   - Tone: Resolution, acceptance, partnership
@@ -179,57 +232,69 @@
   - End Arc 1 with setup for future partnership and adventures
   - _Requirements: 5.2, 7.2_
 
-- [ ] 15. Review and polish Arc 1 for consistency
+- [x] 15. Review and polish Arc 1 for consistency
+
+
   - Verify character voice consistency throughout all chapters
   - Check world-building accuracy and timeline placement
   - Ensure power system rules are followed consistently
   - Review emotional authenticity and trauma handling
   - Confirm proper setup for future arc development
+  - **CRITICAL**: Resolve Caspian's non-elemental analytical power canonicity - determine how to explain this within WuWa's six-element system (Spectro, Havoc, Fusion, Glacio, Aero, Electro)
   - _Requirements: All requirements_
 
-- [ ] 15.1 Character consistency review
+- [ ] 18. Review and polish Arc 1 for consistency
+  - Verify character voice consistency throughout all chapters
+  - Check world-building accuracy and timeline placement
+  - Ensure power system rules are followed consistently
+  - Review emotional authenticity and trauma handling
+  - Confirm proper setup for future arc development
+  - **CRITICAL**: Resolve Caspian's non-elemental analytical power canonicity - determine how to explain this within WuWa's six-element system (Spectro, Havoc, Fusion, Glacio, Aero, Electro)
+  - _Requirements: All requirements_
+
+- [ ] 18.1 Character consistency review
   - Check Caspian's internal monologue style and voice evolution
   - Verify Phrolova's characterization and relationship dynamics
   - Ensure supporting characters remain consistent
   - Review dialogue authenticity and speech patterns
   - _Requirements: 1.1, 2.1, 2.2, 4.1_
 
-- [ ] 15.2 World-building and plot consistency review
+- [ ] 18.2 World-building and plot consistency review
   - Verify all WuWa lore elements are accurate
   - Check timeline placement and canon compliance
   - Ensure power system limitations are respected
   - Review location descriptions and atmosphere consistency
   - _Requirements: 3.1, 3.2, 6.1, 6.2_
 
-- [ ] 15.3 Style and pacing review
+- [ ] 18.3 Style and pacing review
   - Check Korean webnovel style consistency
   - Verify internal monologue density and flow
   - Ensure proper balance of humor and serious content
   - Review chapter transitions and emotional beats
   - _Requirements: 4.1, 4.2, 4.3, 4.4, 5.1_
 
-- [ ] 16. Plan future arc development (general framework)
+- [ ] 19. Plan future arc development (general framework)
   - Create Arc 2 outline focusing on partnership development
   - Plan Arc 3 structure for world involvement and canon character introduction
   - Establish Arc 4+ framework for major conflicts and resolution
   - Set up character growth trajectories for future development
   - _Requirements: 5.1, 5.2_
 
-- [ ] 16.1 Arc 2: Partnership Development planning
+- [ ] 19.1 Arc 2: Partnership Development planning
   - Outline Caspian and Phrolova learning to work together
   - Plan external threats that force cooperation
   - Design character growth toward accepting their roles
   - Create relationship evolution from reluctant allies to genuine partners
   - _Requirements: 1.1, 2.2, 5.2_
 
-- [ ] 16.2 Arc 3: World Involvement planning
+- [ ] 19.2 Arc 3: World Involvement planning
   - Plan engagement with larger WuWa world conflicts
   - Design introduction of canon characters and major factions
   - Create regional threats requiring their unique abilities
   - Establish their recognition as significant players
   - _Requirements: 3.1, 3.2, 5.2_
 
-- [ ] 16.3 Arc 4+: Major Conflicts planning
+- [ ] 19.3 Arc 4+: Major Conflicts planning
   - Plan confrontation with threats affecting canon timeline
   - Design events that must be resolved before main story
   - Create full utilization of their complementary abilities

@@ -62,7 +62,7 @@ Ostina was the kind of settlement where everyone knew everyone else's business. 
 
 And then there was Granny Leah.
 
-"Caspian Thorne!" she called one morning as I wandered past her house. "Come here, child."
+"Caspian!" she called one morning as I wandered past her house. "Come here, child."
 
 I approached cautiously. Granny Leah wasn't actually anyone's grandmother, but she'd claimed the title through sheer force of personality.
 
@@ -100,7 +100,7 @@ The numbers inside were insane. In the past 500 years alone, there had been over
 
 He paused in his work, glancing at Mom before answering. "Well, little man, the world outside can be dangerous. Tacet Discords sometimes wander through, and the walls help keep them out."
 
-*Little man.* There it was again. I had to resist the urge to roll my eyes. If only he knew that his "little man" had once sat through board meetings that would make grown adults weep.
+*Little man.* There it was again. Mentally I'm thirty-one though... I thought with a slight pout, even though I knew he couldn't hear my internal grumbling.
 
 "What are Tacet Discords?"
 

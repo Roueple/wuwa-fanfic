@@ -10,7 +10,7 @@ I nodded and slipped out of our workshop, following the haunting melody through 
 
 But none of them seemed to see what I saw.
 
-She sat on the steps of the village hall, silver hair catching the lamplight like spun moonbeams. Her eyes were the color of violets, deep and mysterious in a way that seemed impossible for a child our age. Her violin was handmade—I could see the careful craftsmanship even from a distance—but she played it like magic.
+She sat on the steps of the village hall, silver hair catching the lamplight like spun moonbeams. Her white dress seemed to glow in the evening light, making her look almost ethereal. Her eyes were the color of violets, deep and mysterious in a way that seemed impossible for a child our age. Her violin was handmade—I could see the careful craftsmanship even from a distance—but she played it like magic.
 
 That's when I saw it—the glow around her.
 
@@ -52,11 +52,11 @@ She smiled like the sun coming out from behind clouds, and the glow around her p
 
 "Really? There's an old piano in the hall. It's not in great condition, but it still works. Want to try playing together?"
 
-That's how I discovered my reincarnation had come with skill transfers.
+That's how I discovered that remembering my past life meant I could still play piano.
 
 The piano was indeed old, probably salvaged from some larger settlement and hauled here by optimistic villagers who thought culture was worth the transport costs. Half the keys stuck, and it was perpetually out of tune, but when I sat down and let my fingers find the keys, muscle memory took over.
 
-I started with something simple—a melody I half-remembered from my previous life, probably from a movie soundtrack. But as Phrolova joined in with her violin, something magical happened.
+I started with Canon in D—the familiar progression flowing from my fingers as if I'd played it yesterday. But as Phrolova joined in with her violin, something magical happened.
 
 The glow around her intensified, spreading outward to encompass both of us. Her violin soared over my piano accompaniment, and together we created something that made the air itself seem to sing. The music became more than the sum of its parts, harmonies appearing that neither of us had planned.
 
@@ -108,9 +108,13 @@ Dad chuckled. "Your mother, for one. The day I met her, I knew she was going to 
 
 I dropped the subject. Whatever I was seeing, it was mine alone to perceive.
 
-Supporting character, I thought as I watched Phrolova practice her violin in the village square. The childhood friend who helped the protagonist discover her potential.
+Main character, I thought as I watched Phrolova practice her violin in the village square. She had to be the protagonist of whatever story this world was telling.
 
-I should have been disappointed. In the novels I'd read, supporting characters usually got the short end of the stick—forgotten when the real plot kicked in, or worse, killed off to motivate the hero.
+But wait... if she was the main character, what did that make me?
+
+Am I glowing too? I wondered, and that evening I spent a long time staring at myself in our small mirror. No shimmer, no aura of importance—just a four-year-old boy with ordinary brown hair and curious eyes.
+
+Maybe I was wrong about Phrolova. Maybe I should wait until I saw other people with that same glow before making any judgments about who was truly important in this world's story.
 
 But sitting there in that dusty village hall, listening to Phrolova hum the melody we'd created together, I found I didn't mind the idea. There were worse fates than being the person who got to make music with someone like her.
 
@@ -126,7 +130,7 @@ I was something else entirely—an anomaly in a world that already had its heroe
 
 "Good." She smiled again, and I felt that strange resonance in my chest. "I think we could make beautiful music together."
 
-Famous last words.
+I couldn't help but smile back. At four years old, that sounded like the best possible future.
 
 But as I walked home through Ostina's quiet streets, I couldn't shake the feeling that my eyes were showing me something important. Something that would matter more than I could possibly imagine.
 
