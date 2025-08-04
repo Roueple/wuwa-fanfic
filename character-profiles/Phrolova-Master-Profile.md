@@ -5,7 +5,7 @@
 - **Age**: Same as Kael (grows up parallel to him)
 - **Role**: Power Couple Co-Protagonist, Primary Love Interest
 - **Species**: Threnodian (immortal)
-- **Origin**: Village destroyed by Threnodians, becomes wandering warrior-musician
+- **Origin**: Village destroyed by calamity, becomes wandering warrior-musician
 
 ## Background
 
@@ -14,7 +14,7 @@
 - **Childhood**: Parallel childhood to Kael, musical prodigy with violin
 - **Family**: [Details TBD] - Lost in the meteor strike/Threnodian attack
 - **Musical Foundation**: Early training in violin, natural talent for emotional expression
-- **Shared Tragedy**: Village destroyed while Kael was away on errands
+- **Shared Tragedy**: Village destroyed while Phrolova was away on concert tour
 
 ### Post-Destruction Wandering Period
 - **Survival Mechanism**: Sorrow and music literally sustain her existence
